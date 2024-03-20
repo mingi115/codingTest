@@ -12,7 +12,7 @@ public class FailedRunner {
 
         String result = new FailedRunner().solution(participant,completion);
 
-        if(result.equals("leo")){
+        if(result.equals("mislav")){
             System.out.println("통과");
         }else{
             System.out.println("실패");
